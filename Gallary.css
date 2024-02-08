@@ -1,0 +1,23 @@
+body{
+    background-color: purple;
+}
+col{
+    width: 600px;
+    height: 600px;
+    border-radius: 15px;
+
+}
+
+.col{
+    margin: 10px;
+}
+
+h1{
+    color: brown;
+}
+
+img:hover{
+    width: 380px;
+    height: 400px;
+    border-radius: 15px;
+}
